@@ -1,0 +1,1 @@
+const EKSI_URL = "https://eksisozluk.com"

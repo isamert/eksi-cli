@@ -1,0 +1,12 @@
+[package]
+name = "eksicli"
+version = "0.1.0"
+authors = ["İsa Mert Gürbüz <isamertgurbuz@gmail.com>"]
+
+[dependencies]
+reqwest = "0.8.5"
+select = "0.4.2"
+tui = "0.2.1"
+termion = "1.5.1"
+
+# TODO: replace binary directory
